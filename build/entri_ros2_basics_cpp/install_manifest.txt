@@ -1,0 +1,16 @@
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/lib/entri_ros2_basics_cpp/hello_node
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/ament_index/resource_index/package_run_dependencies/entri_ros2_basics_cpp
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/ament_index/resource_index/parent_prefix_path/entri_ros2_basics_cpp
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/entri_ros2_basics_cpp/environment/ament_prefix_path.sh
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/entri_ros2_basics_cpp/environment/ament_prefix_path.dsv
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/entri_ros2_basics_cpp/environment/path.sh
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/entri_ros2_basics_cpp/environment/path.dsv
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/entri_ros2_basics_cpp/local_setup.bash
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/entri_ros2_basics_cpp/local_setup.sh
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/entri_ros2_basics_cpp/local_setup.zsh
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/entri_ros2_basics_cpp/local_setup.dsv
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/entri_ros2_basics_cpp/package.dsv
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/ament_index/resource_index/packages/entri_ros2_basics_cpp
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/entri_ros2_basics_cpp/cmake/entri_ros2_basics_cppConfig.cmake
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/entri_ros2_basics_cpp/cmake/entri_ros2_basics_cppConfig-version.cmake
+/home/livio/Desktop/ros2-hello-world-livioroy8-2/install/entri_ros2_basics_cpp/share/entri_ros2_basics_cpp/package.xml
